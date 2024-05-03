@@ -1,0 +1,4 @@
+<script
+    chatbot_id="66326eb3009456df3b7a2425"
+    src="https://app.thinkstack.ai/bot/thinkstackai-loader.min.js">
+</script>
